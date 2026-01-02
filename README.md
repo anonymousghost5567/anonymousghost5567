@@ -100,8 +100,3 @@ https://github.com/anonymousghost5567/IBM-Certificate
 - Email: prajwalkini67@gmail.com  
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonymousghost5567&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousghost5567&layout=compact)
